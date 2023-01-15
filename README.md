@@ -1,5 +1,8 @@
 This is a simple meme generator pulling data from API I did some time ago.
 
+<img width="1278" alt="Screen Shot 2023-01-15 at 21 10 49" src="https://user-images.githubusercontent.com/7899896/212562149-32f99609-e3fb-4703-a270-39294ec80c8d.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
